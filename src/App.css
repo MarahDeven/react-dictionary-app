@@ -8,12 +8,13 @@ body {
   );
 }
 
-a {
-  color: #06123e;
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .App-header {
-  margin: 30px 0;
+  margin: 30px;
 }
 
 .App-logo {
@@ -25,4 +26,8 @@ a {
 .App-footer {
   text-align: center;
   margin: 30px 0;
+}
+
+.App a {
+  color: #06123e;
 }
