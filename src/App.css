@@ -24,8 +24,10 @@ body {
 .App-footer {
   text-align: center;
   margin: 30px 0;
+  color: #06123e;
 }
 
 .App a {
-  color: #06123e;
+  color: #9e9696;
+  text-decoration: none;
 }
