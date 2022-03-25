@@ -13,6 +13,11 @@ body {
 
 .App-header {
   margin: 30px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  color: #06123e;
+  font-family: "Gentium Book Basic", serif;
 }
 
 .App-logo {
