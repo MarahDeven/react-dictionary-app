@@ -62,7 +62,7 @@ export default function Dictionary(props) {
           </form>
           <div className="hint">
             Suggested Words: Pretentious, Ubiquitous, Cynical, Apathetic,
-            Conundrum Albeit, Integrity, etc...
+            Conundrum, Albeit, Integrity, etc...
           </div>
         </section>
         <Results results={results} />
